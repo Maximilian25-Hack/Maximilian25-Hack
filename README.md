@@ -1,3 +1,4 @@
+![Maximilian's Banner](https://github.com/Maximilian25-Hack/Maximilian25-Hack/blob/main/watermarked_img_17900051453470802238.jpg)
 # Hi there, I'm Maximilian 👋
 
 ### 🛡️ Cybersecurity Specialist | Threat Detection & Infrastructure Security
