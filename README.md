@@ -1,6 +1,6 @@
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-00205B?style=for-the-badge&logo=comptia&logoColor=white)
-![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Maximilian%20Kolbe&fontSize=52&fontColor=00f2fe&fontAlign=50&fontAlignY=40&subtext=%F0%9F%9B%A1%EF%B8%8F%20CYBERSECURITY%20SPECIALIST%20%7C%20ETHICAL%20HACKER&subFontSize=18&subFontColor=8b949e&subAlign=50&subAlignY=68&stroke=00f2fe&strokeWidth=1" width="100%" />
+</p>
 # Hi there, I'm Maximilian 👋
 
 ### 🛡️ Cybersecurity Specialist | Threat Detection & Infrastructure Security
