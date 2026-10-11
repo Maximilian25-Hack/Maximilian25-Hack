@@ -1,4 +1,4 @@
-![Maximilian's Banner](https://github.com/Maximilian25-Hack/Maximilian25-Hack/blob/main/watermarked_img_17900051453470802238.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Maximilian%20Kolbe&fontSize=50&subtext=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker&subFontSize=20&descAlignY=62" width="100%" />
 # Hi there, I'm Maximilian 👋
 
 ### 🛡️ Cybersecurity Specialist | Threat Detection & Infrastructure Security
