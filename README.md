@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Maximilian%20Kolbe&fontSize=52&fontColor=00f2fe&fontAlign=50&fontAlignY=40&subtext=%F0%9F%9B%A1%EF%B8%8F%20CYBERSECURITY%20SPECIALIST%20%7C%20ETHICAL%20HACKER&subFontSize=18&subFontColor=8b949e&subAlign=50&subAlignY=68&stroke=00f2fe&strokeWidth=1" width="100%" />
+  <img src="https://raw.githubusercontent.com/Maximilian25-Hack/Maximilian25-Hack/main/assets/maximilian-cybersecurity.jpg" alt="Maximilian Kolbe - Cybersecurity Analyst Banner" width="100%" />
 </p>
 # Hi there, I'm Maximilian 👋
 
