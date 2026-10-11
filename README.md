@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maximilian25-Hack/Maximilian25-Hack/main/assets/maximilian-cybersecurity.jpg" alt="Maximilian Kolbe - Cybersecurity Analyst Banner" width="100%" />
-</p>
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-00205B?style=for-the-badge&logo=comptia&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # Hi there, I'm Maximilian 👋
 
 ### 🛡️ Cybersecurity Specialist | Threat Detection & Infrastructure Security
